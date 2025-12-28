@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1766948566.4355 "/home/codm/Desktop/bac2/compléments math/LSINC1113/Exercises/main.tex" "main.pdf" "main" 1766948569.23216 2
+["pdflatex"] 1766948970.72834 "/home/codm/Desktop/bac2/compléments math/LSINC1113/Exercises/main.tex" "main.pdf" "main" 1766948974.18147 2
   "/etc/texmf/web2c/texmf.cnf" 1757263378.46047 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/codm/Desktop/bac2/compléments math/LSINC1113/Exercises/main.tex" 1766948268.40669 2514 fe936fb456150ef52483347b457bfdca ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -324,7 +324,7 @@
   "2025/tp10.tex" 1766948268.40388 14360 553d95299c818316f13b38cebbaa8466 ""
   "2025/tp10_corr.tex" 1766948268.40488 13103 1fe2cd4d8a01f83b2aba51ff323acb32 ""
   "2025/tp11.tex" 1766948268.40488 5160 473943ec297f975fce7c8a77010d8483 ""
-  "2025/tp11_corr.tex" 1766948563.0149 13240 45b5c0d08f81789af175a8f61b157cb2 ""
+  "2025/tp11_corr.tex" 1766948967.25579 13293 eaeb924db587d966ab9840b7513a042f ""
   "2025/tp12.tex" 1766948268.40488 5235 63d86de75d63aa20e402b2a17073c5c5 ""
   "2025/tp12_corr.tex" 1766948268.40488 15632 1157578b337edfcea0204b15c7c45578 ""
   "2025/tp1_corr.tex" 1766948268.40488 14438 c104edec9b5be4fad8060f0e97b8255e ""
@@ -345,8 +345,8 @@
   "format/margins.tex" 1766948268.40588 162 120675d322c39b7f99e51260d0c6ee6b ""
   "format/newcommands.tex" 1766948268.40669 2644 bb972078bf57ffcacf3f113a11b918c2 ""
   "format/preambule.tex" 1766948268.40669 1647 db4beb4d8ddba2cc2b464b220b3b4e7a ""
-  "main.aux" 1766948569.04208 1503 f8c2bec7133125f69def1a16f55d6394 "pdflatex"
-  "main.out" 1766948567.32273 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.aux" 1766948973.97505 1503 f8c2bec7133125f69def1a16f55d6394 "pdflatex"
+  "main.out" 1766948971.83427 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   "main.tex" 1766948268.40669 2514 fe936fb456150ef52483347b457bfdca ""
   (generated)
   "main.aux"
